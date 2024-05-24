@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/geom-frame/static/css/main.923187b8.css",
-    "main.js": "/geom-frame/static/js/main.bd665181.js",
-    "index.html": "/geom-frame/index.html",
-    "main.923187b8.css.map": "/geom-frame/static/css/main.923187b8.css.map",
-    "main.bd665181.js.map": "/geom-frame/static/js/main.bd665181.js.map"
+    "main.css": "/static/css/main.923187b8.css",
+    "main.js": "/static/js/main.8b23f2d6.js",
+    "index.html": "/index.html",
+    "main.923187b8.css.map": "/static/css/main.923187b8.css.map",
+    "main.8b23f2d6.js.map": "/static/js/main.8b23f2d6.js.map"
   },
   "entrypoints": [
     "static/css/main.923187b8.css",
-    "static/js/main.bd665181.js"
+    "static/js/main.8b23f2d6.js"
   ]
 }
